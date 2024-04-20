@@ -1,0 +1,33 @@
+@media (max-width: 480px) {
+
+    h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .logo-mario {
+        height: 100px;
+    }
+
+    .imagem-mario-luigi {
+        width: 175px;
+        height: auto;
+        bottom: 90px;
+    }
+
+    .content {
+        width: 100%;
+        padding-left: 0;
+
+    }
+
+    .banner {
+        display: block;
+    }
+
+    .button-alignment {
+        text-align: center;
+    }
+
+
+}
