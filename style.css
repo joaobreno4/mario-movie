@@ -69,16 +69,8 @@ h1 {
     height: 100vh;
 }
 
-.caixa-principal {}
-
 .caixa-video {
     position: fixed;
     top: 0;
     z-index: -1;
 }
-
-video {
-    width: 100vw;
-}
-
-
